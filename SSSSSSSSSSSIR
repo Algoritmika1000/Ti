@@ -12,6 +12,7 @@
 </style>
 <body>
     <h1> Мир пончиков</h1>
+    <p>Привет из алгоритмики</p>
     <img scr='/uploads/2023/02/donut.png'>
 </body>
 </html>
